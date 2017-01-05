@@ -1,0 +1,25 @@
+{
+    "name": "developer-space/date-tools",
+    "description": "Conjunto de ferramentas para facilitar e agilizar a manipulação e validação de datas.",
+    "type": "Library",
+    "license": "BSD-3",
+    "authors": [
+        {
+            "name": "Developer Space",
+            "email": "developer.space.br@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "PHP":">= 5.3.8",
+        "phpunit/phpunit": "4.8.31"
+    },
+    "autoload":{
+        "psr-0":{
+            "DataTools\\":"src\\"
+        },
+        "psr-4":{
+            "DataTools\\":"src\\"
+        }
+    }
+}
