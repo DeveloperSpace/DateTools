@@ -1,2 +1,2 @@
-# BRDateTools
-Conjunto de ferramentas para facilitar e agilizar a manipulação de datas no formato EN para o formato PT-BR.
+# DateTools
+Conjunto de ferramentas para facilitar e agilizar a manipulação e validação de datas.
