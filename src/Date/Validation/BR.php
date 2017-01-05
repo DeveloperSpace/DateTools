@@ -24,7 +24,7 @@ class BR
      * @param string $date format en
      * @return boolean
      */
-    public static function isEmptry($date)
+    public static function isEmpty($date)
     {
         
     }
