@@ -7,25 +7,25 @@ namespace DataTools\Date\Validation;
  */
 class BR
 {
-	/**
-	 * Validate date
-	 * 
-	 * @param string $date format en
-	 * @return boolean
-	 */
-	public static function isValid($date)
-	{
-		
-	}
+    /**
+     * Validate date
+     * 
+     * @param string $date format en
+     * @return boolean
+     */
+    public static function isValid($date)
+    {
+        
+    }
 
-	/**
-	 * Verify if is empty
-	 * 
-	 * @param string $date format en
-	 * @return boolean
-	 */
-	public static function isEmptry($date)
-	{
-		
-	}
+    /**
+     * Verify if is empty
+     * 
+     * @param string $date format en
+     * @return boolean
+     */
+    public static function isEmptry($date)
+    {
+        
+    }
 }

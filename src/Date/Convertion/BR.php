@@ -7,14 +7,14 @@ namespace DataTools\Date\Convertion;
  */
 class BR
 {
-	/**
-	 * Convert date for pt-BR format
-	 * 
-	 * @param string $date format en
-	 * @return string
-	 */
-	public static function convert($date)
-	{
-		
-	}
+    /**
+     * Convert date for pt-BR format
+     * 
+     * @param string $date format en
+     * @return string
+     */
+    public static function convert($date)
+    {
+        
+    }
 }
