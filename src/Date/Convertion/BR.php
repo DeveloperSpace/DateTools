@@ -1,6 +1,6 @@
 <?php
 
-namespace DataTools\Date\Convertion;
+namespace DateTools\Date\Convertion;
 
 /**
  * @author Developer Space <developer.space.br@gmail.com>

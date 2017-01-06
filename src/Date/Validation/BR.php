@@ -1,6 +1,6 @@
 <?php
 
-namespace DataTools\Date\Validation;
+namespace DateTools\Date\Validation;
 
 /**
  * @author Developer Space <developer.space.br@gmail.com>
