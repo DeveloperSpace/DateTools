@@ -1,6 +1,6 @@
 <?php
 
-namespace DataTools\Date\Operation;
+namespace DateTools\Date\Operation;
 
 /**
  * @author Developer Space <developer.space.br@gmail.com>

@@ -16,10 +16,10 @@
     },
     "autoload":{
         "psr-0":{
-            "DataTools\\":"src\\"
+            "DateTools\\":"src\\"
         },
         "psr-4":{
-            "DataTools\\":"src\\"
+            "DateTools\\":"src\\"
         }
     }
 }
