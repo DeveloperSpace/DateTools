@@ -16,7 +16,7 @@ class BRTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('09/01/2017', Convertion::convert('2017-01-09'));
     }
 
-    public function testIndalidDate()
+    public function testInvalidDate()
     {
         $this->assertEquals(false, Convertion::convert('09/01/2017'));
         $this->assertEquals(false, Convertion::convert('099/01/2017'));
