@@ -2,3 +2,4 @@
 composer.lock
 index.php
 /vendor
+/test/_reports
