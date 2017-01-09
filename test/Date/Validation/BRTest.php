@@ -1,6 +1,6 @@
 <?php
 
-namespace DataToolsTest\Date\Validation;
+namespace DateToolsTest\Date\Validation;
 
 use DataTools\Date\Validation\BR as Validator;
 
