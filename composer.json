@@ -21,5 +21,8 @@
         "psr-4":{
             "DateTools\\":"src\\"
         }
+    },
+    "scripts": {
+      "test": "phpunit --colors test"
     }
 }
