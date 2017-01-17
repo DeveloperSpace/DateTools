@@ -2,7 +2,7 @@
 
 namespace DateToolsTest\Date\Validation;
 
-use DataTools\Date\Validation\BR as Validator;
+use DateTools\Date\Validation\BR as Validator;
 
 class BRTest extends \PHPUnit_Framework_TestCase
 {
